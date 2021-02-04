@@ -12,6 +12,8 @@ const Label = styled.label`
 `;
 
 const Select = styled.select`
+	background: #fff;
+	color: #333;
 	border: none;
 	border-radius: 10px;	
 	font-size: 1rem;

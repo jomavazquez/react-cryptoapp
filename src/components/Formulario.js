@@ -16,6 +16,7 @@ const Boton = styled.input`
 	padding: 10px;
 	transition: all .3s ease;
 	width: 100%;
+	-webkit-appearance: none;
 	
 	&:hover {
 		background-color: #326ac0;
